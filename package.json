@@ -1,0 +1,26 @@
+{
+  "name": "casa",
+  "version": "0.0.0",
+  "description": "mi casa es tu casa",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha --recursive tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rizowski/casa.git"
+  },
+  "keywords": [
+    "git",
+    "tools",
+    "easy"
+  ],
+  "author": "Colten Rouska",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rizowski/casa/issues"
+  },
+  "homepage": "https://github.com/rizowski/casa#readme"
+}
